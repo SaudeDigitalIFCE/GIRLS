@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+<!--
+    <item
+    android:title="@string/off"
+    android:icon="@drawable/volume_off_24dp"
+    android:id="@+id/off_audio"
+    app:showAsAction="ifRoom"/>
+-->
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vite</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="off">OFF</string>
+    <string name="title_activity_contacts_list">ContactsList</string>
+    <string name="title_activity_devices">Devices</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

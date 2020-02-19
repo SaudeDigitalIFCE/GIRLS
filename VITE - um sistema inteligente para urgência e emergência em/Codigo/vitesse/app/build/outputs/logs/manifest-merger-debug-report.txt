@@ -1,0 +1,383 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+MERGED from [com.android.support:design:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\f45242b0267a4e6da088198843b1d24b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\3323ac4e5da92d31731743eca5c54e38\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.3.aar\3bb310fb8d0dbdd90a5e9222a95b8020\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\750c6edadfca40913ac64a0ed4e3c78f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ae5be56eeb20ceafdd26b9aa9dc8f488\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\d76accec73bbfd1e08b32bce69a393f2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\9e9f683fbf9a79b48dd2c671e4e1ffc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\c1d5fd7e72877d8d10599bc182be28a4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\72f04f34f9e03e11113732a5ac80e139\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\9007cb213bb196e967f829b245164dbd\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+	package
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:1-136:12
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:12:22-67
+uses-permission#android.permission.SEND_RESPOND_VIA_MESSAGE
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:13:5-14:47
+	tools:ignore
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:13:22-80
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:17:5-18:47
+	tools:ignore
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:17:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.LOCATION_HARDWARE
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:22:5-23:47
+	tools:ignore
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:23:9-44
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:22:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:24:5-89
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:24:22-86
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:26:5-98
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:26:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:33:22-76
+application
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:35:5-134:19
+MERGED from [com.android.support:design:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\f45242b0267a4e6da088198843b1d24b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\f45242b0267a4e6da088198843b1d24b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\3323ac4e5da92d31731743eca5c54e38\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\3323ac4e5da92d31731743eca5c54e38\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:27:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.3.aar\3bb310fb8d0dbdd90a5e9222a95b8020\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.3.aar\3bb310fb8d0dbdd90a5e9222a95b8020\AndroidManifest.xml:7:5-11:19
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ae5be56eeb20ceafdd26b9aa9dc8f488\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ae5be56eeb20ceafdd26b9aa9dc8f488\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\d76accec73bbfd1e08b32bce69a393f2\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\d76accec73bbfd1e08b32bce69a393f2\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\c1d5fd7e72877d8d10599bc182be28a4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\c1d5fd7e72877d8d10599bc182be28a4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\72f04f34f9e03e11113732a5ac80e139\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\72f04f34f9e03e11113732a5ac80e139\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\9007cb213bb196e967f829b245164dbd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\9007cb213bb196e967f829b245164dbd\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:39:9-35
+	android:label
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:38:9-41
+	android:icon
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:37:9-41
+	android:allowBackup
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:40:9-40
+meta-data#DATABASE
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:41:9-43:39
+	android:value
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:42:13-36
+meta-data#VERSION
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:44:9-46:33
+	android:value
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:46:13-30
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:45:13-35
+meta-data#QUERY_LOG
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:47:9-49:36
+	android:value
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:49:13-33
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:48:13-37
+meta-data#DOMAIN_PACKAGE_NAME
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:50:9-52:53
+	android:value
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:52:13-50
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:51:13-47
+activity#ifce.lara.vite.activity.MainActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:54:9-63:20
+	android:label
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:56:13-45
+	android:theme
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:55:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:61:27-74
+activity#ifce.lara.vite.activity.ContactsActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:64:9-67:59
+	android:label
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:66:13-65
+	android:theme
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:65:13-54
+activity#ifce.lara.vite.activity.DevicesActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:68:9-71:59
+	android:label
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:70:13-59
+	android:theme
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:69:13-53
+activity#ifce.lara.vite.activity.UserInfoActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:72:9-75:59
+	android:label
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:74:13-48
+	android:theme
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:73:13-54
+activity#ifce.lara.vite.activity.AddContactActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:76:9-78:59
+	android:theme
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:78:13-56
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:77:13-56
+activity#ifce.lara.vite.Contacts
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:79:9-46
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:79:19-43
+activity#ifce.lara.vite.activity.ContactsDeviceActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:80:9-69
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:80:19-66
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:89:9-91:55
+	android:value
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:91:13-52
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:90:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:92:9-94:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.3.aar\3bb310fb8d0dbdd90a5e9222a95b8020\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.3.aar\3bb310fb8d0dbdd90a5e9222a95b8020\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\72f04f34f9e03e11113732a5ac80e139\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\72f04f34f9e03e11113732a5ac80e139\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:94:13-66
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:93:13-58
+activity#ifce.lara.vite.activity.MapsActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:96:9-99:59
+	android:label
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:98:13-56
+	android:theme
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:99:13-56
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:97:13-50
+activity#ifce.lara.vite.activity.SettingsActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:100:9-63
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:100:19-60
+activity#ifce.lara.vite.activity.BluetoothSearch
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:101:9-62
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:101:19-59
+activity#ifce.lara.vite.activity.ProtocolEmergencyActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:102:9-72
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:102:19-69
+receiver#ifce.lara.vite.receive.SmsReceive
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:104:9-111:20
+	android:enabled
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:106:13-35
+	android:exported
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:107:13-36
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:105:13-47
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:108:13-110:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:109:17-82
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:109:25-79
+receiver#ifce.lara.vite.receive.ReceiveEvent
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:112:9-119:20
+	android:enabled
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:114:13-35
+	android:exported
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:115:13-36
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:113:13-49
+intent-filter#action:name:START_SENSOR
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:116:13-118:29
+action#START_SENSOR
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:117:17-55
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:117:25-52
+activity#ifce.lara.vite.activity.EnviaSmsActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:121:9-63
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:121:19-60
+activity#ifce.lara.vite.activity.NotificationActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:122:9-67
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:122:19-64
+activity#ifce.lara.vite.activity.CancelProtocolActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:123:9-69
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:123:19-66
+activity#ifce.lara.vite.activity.BluetoothDiscoverActivity
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:124:9-72
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:124:19-69
+receiver#ifce.lara.vite.receive.Pause_Alarme
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:126:9-133:20
+	android:enabled
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:128:13-35
+	android:exported
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:129:13-36
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:127:13-49
+intent-filter#action:name:android.media.VOLUME_CHANGED_ACTION
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:130:13-132:29
+action#android.media.VOLUME_CHANGED_ACTION
+ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:131:17-78
+	android:name
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml:131:25-75
+uses-sdk
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\f45242b0267a4e6da088198843b1d24b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\design-24.1.1.aar\f45242b0267a4e6da088198843b1d24b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\3323ac4e5da92d31731743eca5c54e38\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\3323ac4e5da92d31731743eca5c54e38\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:26:5-42
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.3.aar\3bb310fb8d0dbdd90a5e9222a95b8020\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.4.3] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.4.3.aar\3bb310fb8d0dbdd90a5e9222a95b8020\AndroidManifest.xml:5:5-43
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\750c6edadfca40913ac64a0ed4e3c78f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\750c6edadfca40913ac64a0ed4e3c78f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ae5be56eeb20ceafdd26b9aa9dc8f488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\ae5be56eeb20ceafdd26b9aa9dc8f488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\d76accec73bbfd1e08b32bce69a393f2\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\d76accec73bbfd1e08b32bce69a393f2\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\9e9f683fbf9a79b48dd2c671e4e1ffc2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.1.1.aar\9e9f683fbf9a79b48dd2c671e4e1ffc2\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\c1d5fd7e72877d8d10599bc182be28a4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\c1d5fd7e72877d8d10599bc182be28a4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\72f04f34f9e03e11113732a5ac80e139\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\72f04f34f9e03e11113732a5ac80e139\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\9007cb213bb196e967f829b245164dbd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\9007cb213bb196e967f829b245164dbd\AndroidManifest.xml:21:5-23:54
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\3323ac4e5da92d31731743eca5c54e38\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vinicius Nunes\Downloads\Projetos android\vitesse\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\a9ebfcba5015eac7b8f2f68e00902c24\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Vinicius Nunes\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\449382f4e131d91b82268fb0c5d30324\AndroidManifest.xml:20:19-85

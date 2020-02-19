@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_devices" android:icon="@android:drawable/ic_menu_rotate"
+            android:title="Gerenciar Dispositivos" />
+        <item android:id="@+id/nav_contacts" android:icon="@android:drawable/ic_menu_crop"
+            android:title="Gerenciar Contatos" />
+        <item android:id="@+id/nav_user_info" android:icon="@android:drawable/ic_menu_info_details"
+            android:title="Informações Usuário" />
+        <item android:id="@+id/nav_map" android:icon="@android:drawable/ic_dialog_map"
+            android:title="Mapa" />
+        <item android:id="@+id/prontuario" android:icon="@mipmap/person"
+            android:title="Prontuário" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_settings" android:icon="@android:drawable/ic_menu_manage"
+                android:title="Configurações" />
+            <item android:id="@+id/nav_service" android:icon="@android:drawable/ic_menu_view"
+                android:title="Habilitar Serviço" />
+            <item android:id="@+id/nav_reset" android:icon="@android:drawable/ic_menu_rotate"
+                android:title="Resetar" />
+        </menu>
+
+    </item>
+
+</menu>
