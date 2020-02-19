@@ -1,2 +1,2 @@
-# GIRLS
-A Gateway for Interoperability of eletronic health Record in Low-cost System
+# Projetos
+Projetos na área de Saúde Digital
